@@ -1,2 +1,3 @@
 # Resume
-My Resume (with the template)
+My Resume.
+Template by [fizixmastr](https://github.com/fizixmastr/CV-Resume).
